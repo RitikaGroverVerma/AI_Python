@@ -34,4 +34,4 @@
 - Model Retraining: Set up automated retraining pipelines to keep models updated with the latest data.
 
 9. User Interface
-- *Dashboard*: Create dashboards using tools like Tableau, Power BI, or custom web applications to visualize churn predictions and related metrics.
+- Dashboard: Create dashboards using tools like Tableau, Power BI, or custom web applications to visualize churn predictions and related metrics.
